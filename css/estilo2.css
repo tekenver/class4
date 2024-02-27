@@ -1,0 +1,34 @@
+/*  --> * afecta a todo el documento*/
+*{   
+    font-family: Georgia;
+    margin: 30px;
+}
+body{
+    background-color: aqua;
+
+}
+
+h1 {
+    padding: 15px ;
+    border: 10px;
+    border-style: dotted;
+    color: blueviolet;
+    text-align: center;
+    text-decoration: overline;
+    text-transform: uppercase;
+}
+
+p {
+    border-radius: 30px;
+    border-style: solid;
+    border-color: red;
+    background-color: chartreuse;
+    padding: 10px;
+    color: royalblue;
+    text-align: justify;
+}
+
+img {
+    width: 35%;
+}
+
